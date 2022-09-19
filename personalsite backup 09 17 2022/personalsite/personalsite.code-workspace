@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Downloads\\startbootstrap-small-business-gh-pages\\startbootstrap-small-business-gh-pages\\js"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Downloads\\startbootstrap-small-business-gh-pages\\startbootstrap-small-business-gh-pages\\assets"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Downloads\\startbootstrap-small-business-gh-pages\\startbootstrap-small-business-gh-pages\\css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personalsite"
+	}
+}
